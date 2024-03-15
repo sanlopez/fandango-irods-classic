@@ -1,0 +1,2 @@
+python-irodsclient
+mysql-connector-python

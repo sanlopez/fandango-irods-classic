@@ -1,0 +1,7 @@
+{
+    "copyData": [
+        {"name": "--projectId", "help": "ID of the project to delete", "required": true},
+        {"name": "--rawData", "help": "Path of the raw data", "required": true},
+        {"name": "--writePermission", "help": "should the iRODS collection have write permission?", "required": false}
+    ]
+}

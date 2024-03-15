@@ -1,0 +1,13 @@
+[DDBB]
+HOST = localhost
+USER = fandango
+DATABASE = fandango_irods
+PASS = putHereYourPass
+
+[ZONE]
+HOST = putHereYourHost
+PORT = putHereYourPort (normally 1247)
+USER = putHereYourUser
+PASS = putHereYourPass
+NAME = putHereYourZoneName
+COLLECTION = putHereYourParentCollection
